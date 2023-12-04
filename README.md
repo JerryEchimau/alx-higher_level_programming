@@ -3,7 +3,9 @@
 This repo contains programs written for higher-level prgramming track of the ALX_SE program.
 
 ## Author
-- Jerry John Echimau
+- Jerry John Echimau (jerryjohne77@gmail.com)
+[![Twitter](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fjerry_e_john)](https://twitter.com/jerry_e_john)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/echimau)
 
 ## Projects
 
