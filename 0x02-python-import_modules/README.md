@@ -17,7 +17,7 @@ Here is a breakdown of the tasks: <br>
 
 ### 3. Infinite addition
 - Learnt how to use command line arguments through ``import sys``
--[3. Infinite addition](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py): adds all command line args
+- [3. Infinite addition](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py): adds all command line args
 
 ### 4. Who are you?
 - Learnt about the fuction ``dir()`` that stores all names in a module
