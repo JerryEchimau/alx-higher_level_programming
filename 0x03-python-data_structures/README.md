@@ -28,3 +28,9 @@ Here is a breakdown of the tasks in the project:
 ### 5. Can you C me now?
 - Learnt ow to remove certain chars in a string using ``char for char in string if char not in 'cC'``
 - [5-no_c.py]( https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py): removes c and C from a string
+
+### 6. Lists of lists = Matrix
+- Learnt about rows in a list and how to use ``str.join()``
+- [6-print_matrix_integer.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py): prints a mtrix of integers
+
+
