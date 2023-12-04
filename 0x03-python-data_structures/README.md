@@ -25,4 +25,6 @@ Here is a breakdown of the tasks in the project:
 - Learnt how to copy a list and manipulate the copied list
 - [4-new_in_list.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py): replaces an element in a list without affecting the original list
 
-
+### 5. Can you C me now?
+- Learnt ow to remove certain chars in a string using ``char for char in string if char not in 'cC'``
+- [5-no_c.py]( https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py): removes c and C from a string
