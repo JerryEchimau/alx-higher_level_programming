@@ -5,4 +5,8 @@ Here is a breakdown of the tasks in the project:
 
 ## Tasks
 ### 0. Print a list of integers
+- Learnt how to iterate over a list
+- [0-print_list_integer.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py): iterates over a list and print them
+
+### 1. Secure access to an element in a list
 - 
