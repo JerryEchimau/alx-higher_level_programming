@@ -22,3 +22,7 @@ Here is a breakdown of the tasks in the project:
 - [3-print_reversed_list_integer.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py): reverses a list and prints the reversed list
 
 ### 4. Replace in a copy
+- Learnt how to copy a list and manipulate the copied list
+- [4-new_in_list.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py): replaces an element in a list without affecting the original list
+
+
