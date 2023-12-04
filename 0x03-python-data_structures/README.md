@@ -36,3 +36,7 @@ Here is a breakdown of the tasks in the project:
 ### 7. Tuples addition
 - Learnt about adding tuples
 - [7-add_tuple.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py): adds tuples with two elements
+
+### 8. More returns!
+- Learnt about getting len of a tupple and accessing elements from a tupple
+- [8-multiple_returns.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py): returns a tuple with the length of a string and its first character.
