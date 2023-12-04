@@ -33,4 +33,6 @@ Here is a breakdown of the tasks in the project:
 - Learnt about rows in a list and how to use ``str.join()``
 - [6-print_matrix_integer.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py): prints a mtrix of integers
 
-
+### 7. Tuples addition
+- Learnt about adding tuples
+- [7-add_tuple.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py): adds tuples with two elements
