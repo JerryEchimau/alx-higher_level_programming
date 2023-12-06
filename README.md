@@ -4,7 +4,7 @@ This repo contains programs written for higher-level prgramming track of the ALX
 
 ## Author
 Jerry John Echimau <br>
-Send an Email:
+Send an Email to jerryjohne77@gmail.com: <br>
 [![Email Me](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:jerryjohne77@gmail.com) <br>
 
 Let's Connect: <br>
