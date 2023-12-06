@@ -67,6 +67,7 @@ Here is a breakdown of the tasks in the project:
 	- recombined and recreated the original list
 	- returned 1 if palindorme and 0 if not
 	- this works in linear time O(n) and O(1) space
+- [13-is_palindrome.c](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c): C program that checks if a sinle linked list is a palindrome
 
 ### 14. CPython #0: Python lists
 - To be reviewed as I do not fully understand the concept
