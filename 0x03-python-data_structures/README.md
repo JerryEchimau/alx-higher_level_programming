@@ -69,4 +69,4 @@ Here is a breakdown of the tasks in the project:
 	- this works in linear time O(n) and O(1) space
 
 ### 14. CPython #0: Python lists
-
+- To be reviewed as I do not fully understand the concept
