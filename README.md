@@ -4,7 +4,7 @@ This repo contains programs written for higher-level prgramming track of the ALX
 
 ## Author
 Jerry John Echimau <br>
-Send an Email to jerryjohne77@gmail.com: <br>
+Send an Email:
 [![Email Me](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:jerryjohne77@gmail.com) <br>
 
 Let's Connect: <br>
@@ -13,7 +13,7 @@ Let's Connect: <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github)](https://github.com/JerryEchimau) <br>
 
 
-## Projects :file_folder:
+## Projects
 
 1. [0x00. Python - Hello, World!](https://github.com/JerryEchimau/alx-higher_level_programming/tree/master/0x00-python-hello_world)
 	- Here, I got introduced to the Python syntax
