@@ -46,4 +46,27 @@ Here is a breakdown of the tasks in the project:
 - did this by iterating thorugh every variable in the list and comparing it with a preassigned max value
 - [9-max_integer.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py): finds the biggest integer of a list
 
-###
+### 10. Only by 2
+- Learnt to use modular in python in a list
+- [10-divisible_by_2.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py): finds all multiples of 2 in a list
+
+### 11. Delete at
+- Learnt how to use ``del`` to remove an element from a list
+- [11-delete_at.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py): deletes an item at a specific position
+
+### 12. Switch
+- Learnt how to switch values
+- [12-switch.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py): switches values given
+
+### 13. Linked list palindrome
+- This is a C Technical interview preparation question on writing a function that checks if a single linked list is a palindrome
+- This is how I handled it:
+	- iterated over the list using ``slow`` and ``fast`` variables to get the middle of the list
+	- split the list into 2 (first half and second half to compare)
+	- compared the two lists using a function I wrote
+	- recombined and recreated the original list
+	- returned 1 if palindorme and 0 if not
+	- this works in linear time O(n) and O(1) space
+
+### 14. CPython #0: Python lists
+
