@@ -3,14 +3,17 @@
 This repo contains programs written for higher-level prgramming track of the ALX_SE program.
 
 ## Author
-Jerry John Echimau (jerryjohne77@gmail.com) <br>
+Jerry John Echimau <br>
+Send an Email to jerryjohne77@gmail.com: <br>
+[![Email Me](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:jerryjohne77@gmail.com) <br>
+
 Let's Connect: <br>
 [![Twitter](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fjerry_e_john)](https://twitter.com/jerry_e_john) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/echimau) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github)](https://github.com/JerryEchimau) <br>
 
 
-## Projects
+## Projects :file_folder:
 
 1. [0x00. Python - Hello, World!](https://github.com/JerryEchimau/alx-higher_level_programming/tree/master/0x00-python-hello_world)
 	- Here, I got introduced to the Python syntax
