@@ -4,7 +4,7 @@ This repo contains programs written for higher-level prgramming track of the ALX
 
 ## Author
 Jerry John Echimau (jerryjohne77@gmail.com) <br>
-Follow me: <br>
+Let's Connect: <br>
 [![Twitter](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fjerry_e_john)](https://twitter.com/jerry_e_john) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/echimau) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github)](https://github.com/JerryEchimau) <br>
@@ -24,4 +24,6 @@ Follow me: <br>
 3. [0x02. Python - import & modules](https://github.com/JerryEchimau/alx-higher_level_programming/tree/master/0x02-python-import_modules)
 	- Learnt about importing modules
 	- using names and functions from the imported modules
-4. [0x03. Python - Data Structures: Lists, Tuples]
+4. [0x03. Python - Data Structures: Lists, Tuples](https://github.com/JerryEchimau/alx-higher_level_programming/tree/master/0x03-python-data_structures)
+	- Learnt how to manipulate data in Lists and Tuples
+	- explored a technical interview question on finding palindromes in Linked Lists (C)
