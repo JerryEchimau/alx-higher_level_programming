@@ -40,4 +40,6 @@ Here are the tasks in this project:
 - Learnt how to delete keys using ``pop()``
 - [8-simple_delete.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py): deletes a key in a dictionary
 
-
+### 9. Multiply by 2
+- Learnt how to use items in a dict using ``dict.items()`` to manipulates the dict
+- [9-multiply_by_2.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py): returns a new dictionary with all values multiplied by 2
