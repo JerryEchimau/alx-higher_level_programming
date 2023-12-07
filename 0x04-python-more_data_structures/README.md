@@ -9,4 +9,8 @@ Here are the tasks in this project:
 - [0-square_matrix_simple.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/0-square_matrix_simple.py): squares integers ina 2 dimensional set (matrix)
 
 ### 1. Search and replace
+- Learnt how to search and replace values in a list
+- [1-search_replace.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py): searches and replaces an element in a list
+
+### 2. Unique addition
 - 
