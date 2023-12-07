@@ -18,7 +18,11 @@ Here are the tasks in this project:
 
 ### 3. Present in both
 - I learnt how to use the set intersection operator ``&`` to find common elements between 2 sets
-- [3-common_elements.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py): finds the common elements in a set of data
+- [3-common_elements.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py): finds the common elements between two sets of data
 
 ### 4. Only differents
+- Learnt how to use the set symmetric difference operator ``^`` to find unique elements in two sets
+- [4-only_diff_elements.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py): returns unique elemts between two sets of data
+
+### 5. Number of keys
 - 
