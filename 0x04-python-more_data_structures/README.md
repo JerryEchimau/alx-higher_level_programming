@@ -35,3 +35,9 @@ Here are the tasks in this project:
 ### 7. Update dictionary
 - Learnt how to update and replace keys and values
 - [7-update_dictionary.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py): replaces or adds keys/values in a dictionary
+
+### 8. Simple delete by key
+- Learnt how to delete keys using ``pop()``
+- [8-simple_delete.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py): deletes a key in a dictionary
+
+
