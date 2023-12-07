@@ -5,4 +5,8 @@ Here are the tasks in this project:
 
 ## Tasks :clipboard:
 ### 0. Squared simple
+- I learnt how to manipulate elements in a 2 dimensional array
+- [0-square_matrix_simple.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/0-square_matrix_simple.py): squares integers ina 2 dimensional set (matrix)
 
+### 1. Search and replace
+- 
