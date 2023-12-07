@@ -25,4 +25,8 @@ Here are the tasks in this project:
 - [4-only_diff_elements.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py): returns unique elemts between two sets of data
 
 ### 5. Number of keys
+- Learnt how to get the number of keys in a dictionary using the builtin ``len()`` function
+- [5-number_keys.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py): returns the no. of keys in a dictionary
+
+### 6. Print sorted dictionary
 - 
