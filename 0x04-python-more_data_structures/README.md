@@ -13,4 +13,8 @@ Here are the tasks in this project:
 - [1-search_replace.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py): searches and replaces an element in a list
 
 ### 2. Unique addition
+- Learnt how to use ``set()`` to remove duplicates in a list
+- [2-uniq_add.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py): adds unique integers from a list
+
+### 3. Present in both
 - 
