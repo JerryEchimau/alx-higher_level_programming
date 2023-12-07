@@ -17,4 +17,8 @@ Here are the tasks in this project:
 - [2-uniq_add.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py): adds unique integers from a list
 
 ### 3. Present in both
+- I learnt how to use the set intersection operator ``&`` to find common elements between 2 sets
+- [3-common_elements.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py): finds the common elements in a set of data
+
+### 4. Only differents
 - 
