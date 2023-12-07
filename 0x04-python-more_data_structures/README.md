@@ -29,4 +29,5 @@ Here are the tasks in this project:
 - [5-number_keys.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py): returns the no. of keys in a dictionary
 
 ### 6. Print sorted dictionary
-- 
+- Learnt how to access values from keys and order keys in a dictionary using ``sorted()``
+- [6-print_sorted_dictionary.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py): prints a dictionary by ordered keys 
