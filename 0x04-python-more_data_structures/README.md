@@ -43,3 +43,15 @@ Here are the tasks in this project:
 ### 9. Multiply by 2
 - Learnt how to use items in a dict using ``dict.items()`` to manipulates the dict
 - [9-multiply_by_2.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py): returns a new dictionary with all values multiplied by 2
+
+### 10. Best score
+- Learnt how to use ``max()`` to return max value
+- [10-best_score.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-best_score.py): returns a key with the biggest integer value.
+
+### 11. Multiply by using map
+- Learnt how to use ``map()`` to perform an operation on an iterable
+- [11-multiply_list_map.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-multiply_list_map.py):  returns a list with all values multiplied by a number using ``map()``
+
+### 12. Roman to Integer
+- 
+
