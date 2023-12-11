@@ -53,5 +53,18 @@ Here are the tasks in this project:
 - [11-multiply_list_map.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-multiply_list_map.py):  returns a list with all values multiplied by a number using ``map()``
 
 ### 12. Roman to Integer
+- Learnt how to structure a workflow and convert roman numerals to int
+- [12-roman_to_int.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-roman_to_int.py): convers a string of roman numerals to integers
+
+### 13. Weighted average!
 - 
+
+### 14. Squared by using map
+
+
+### 15. Delete by value
+
+
+### 16. CPython #1: PyBytesObject
+
 
