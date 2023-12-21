@@ -38,4 +38,8 @@ Here are the tasks done in the project:
 - [101-safe_function.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py): executes a function safely
 
 ### 9. ByteCode -> Python #4
+- convert bytecode to pythone code
+- [102-magic_calculation.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/102-magic_calculation.py): performs a calculation based on the given bytecode
+
+### 10. CPython #2: PyFloatObject
 - 
