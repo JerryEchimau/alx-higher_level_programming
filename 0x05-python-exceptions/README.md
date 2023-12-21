@@ -26,4 +26,8 @@ Here are the tasks done in the project:
 - [4-list_division.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py): divides element by element 2 lists
 
 ### 5. Raise exception
+- Learnt how to raise exceptions like ``NameError``
+- [6-raise_exception_msg.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py): Raises a name exception with a message.
+
+### 7. Safe integer print with error message
 - 
