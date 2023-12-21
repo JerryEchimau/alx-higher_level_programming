@@ -34,4 +34,8 @@ Here are the tasks done in the project:
 - [100-safe_print_integer_err.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py): prints an integer
 
 ### 8. Safe function
+- Learnt how to execute a function safely using exceptions to catch errors
+- [101-safe_function.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py): executes a function safely
+
+### 9. ByteCode -> Python #4
 - 
