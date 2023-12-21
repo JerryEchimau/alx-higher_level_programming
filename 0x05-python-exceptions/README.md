@@ -30,4 +30,8 @@ Here are the tasks done in the project:
 - [6-raise_exception_msg.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py): Raises a name exception with a message.
 
 ### 7. Safe integer print with error message
+- LEarnt how to redirect std error using exceptions
+- [100-safe_print_integer_err.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py): prints an integer
+
+### 8. Safe function
 - 
