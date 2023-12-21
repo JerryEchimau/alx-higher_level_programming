@@ -22,4 +22,8 @@ Here are the tasks done in the project:
 - [3-safe_print_division.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py): divides 2 integers and prints the results
 
 ### 4. Divide a list
+- Learnt how to use multiple exceptions
+- [4-list_division.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py): divides element by element 2 lists
+
+### 5. Raise exception
 - 
