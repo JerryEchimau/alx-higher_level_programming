@@ -14,4 +14,8 @@ Here are the tasks done in the project:
 - [1-safe_print_integer.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/1-safe_print_integer.py): prints an integer with ``"{:d}".format()``
 
 ### 2. Print and count integers
+- I learnt how to divert errors of index, type, and values
+- [2-safe_print_list_integers.py](https://github.com/JerryEchimau/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py): prints the first x elements of a list and only integers
+
+### 3. Integers division with debug
 - 
