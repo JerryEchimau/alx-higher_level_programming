@@ -47,4 +47,5 @@ Here is a breakdown of the tasks: <br>
 
 
 ## Author :pencil:
-[Jerry John Echimau](https://github.com/JerryEchimau) [![Email Me](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:jerryjohne77@gmail.com) <br>
+[Jerry John Echimau](https://github.com/JerryEchimau) <br>
+[![Email Me](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:jerryjohne77@gmail.com) <br>
